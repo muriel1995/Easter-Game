@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
+
 import './App.css';
 import Map from './components/GameBoard/Map/Map';
 
