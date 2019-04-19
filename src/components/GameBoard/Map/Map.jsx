@@ -11,19 +11,19 @@ export default class Map extends Component {
                 <div className="garden">
                     <div className="background">
                         <Row>
-                            <Col xs="2" className="Line">Departure</Col>
+                            <Col xs="2" id = "departure" className="Line">Departure</Col>
                             <Col xs="2" className="col"></Col>
-                            <Col xs="2" className="path">12</Col>
-                            <Col xs="2" className="path">14</Col>
-                            <Col xs="2" className="path">15</Col>
+                            <Col xs="2" id ="12" className="path">12</Col>
+                            <Col xs="2" id ="14" className="path">14</Col>
+                            <Col xs="2" id = "15" className="path">15</Col>
                             <Col xs="2" className="col"></Col>
                         </Row>
                         <Row>
-                            <Col xs="2" className="path">1</Col>
+                            <Col xs="2" id ="1" className="path">1</Col>
                             <Col xs="2" className="col"></Col>
-                            <Col xs="2" className="path">11</Col>
+                            <Col xs="2" id ="11" className="path">11</Col>
                             <Col xs="2" className="col2"></Col>
-                            <Col xs="2" className="path">16</Col>
+                            <Col xs="2" id ="16" className="path">16</Col>
                             <Col xs="2" className="col2"></Col>
                         </Row>
                         <Row>
