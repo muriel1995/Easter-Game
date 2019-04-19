@@ -1,0 +1,11 @@
+.container-footer{
+  background-color: darkgreen;
+  height : 20vh;
+  width: 100%;
+  
+}
+.Row-footer{
+  display: flex;
+justify-content: space-around;
+color: yellow;
+}
