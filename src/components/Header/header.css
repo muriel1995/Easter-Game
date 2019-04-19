@@ -1,0 +1,13 @@
+.title-header {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 70px;
+  color: yellow;
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.header {
+  background-color: darkgreen;
+  height : 70vh;
+  width: 100%;
+}
